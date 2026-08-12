@@ -1,41 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "How to Find the First Customers for Your Startup Idea1",
-    "url": "https://www.meetup.com/dc-startup-founder-101/events/315806339/",
+    "title": "\ud83e\uddeaLab Session: Build a Real-World Multi-Agent AI Crew With CrewAI",
+    "url": "https://www.meetup.com/ai-enabled-professionals/events/315994893/",
     "location": "Online",
-    "dates": "Aug 11, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-08-11 12:00:00",
+    "dates": "Aug 12, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-08-12 13:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "DC Startup Founder 101",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/315795668/",
-    "location": "Online",
-    "dates": "Aug 11, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-08-11 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Cartesia AI: Vinyl and Whiskey Night",
-    "url": "https://lu.ma/17sb2o3x",
-    "location": "Bengaluru, India",
-    "dates": "Aug 12, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-12 12:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Cartesia",
+    "organization": "AI Enabled Professionals",
     "curated": false
   },
   {
@@ -49,6 +23,19 @@
     "themes": [],
     "prize": "",
     "organization": "Getting over the AI Hump",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Build Semiconductor Chips with AI",
+    "url": "https://lu.ma/cr3edf37",
+    "location": "Bengaluru, India",
+    "dates": "Aug 14, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-14 13:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Lossfunk Event Calendar",
     "curated": false
   },
   {
@@ -105,15 +92,15 @@
   },
   {
     "source": "Meetup",
-    "title": "FREE 2 HOUR WEBMINAR | AI POWERED DATA ENGINEERING | CODING MACAW",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315873992/",
+    "title": "Software Book Club : Observability Engineering: Chapter 3",
+    "url": "https://www.meetup.com/maple-code/events/316057938/",
     "location": "Online",
-    "dates": "Aug 18, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-08-18 10:30:00",
+    "dates": "Aug 18, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-18 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
+    "organization": "Maple Code",
     "curated": false
   },
   {
