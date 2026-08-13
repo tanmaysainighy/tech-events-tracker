@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "\ud83e\uddeaLab Session: Build a Real-World Multi-Agent AI Crew With CrewAI",
-    "url": "https://www.meetup.com/ai-enabled-professionals/events/315994893/",
+    "title": "InterSystems IRIS AI Hub: Goals, Games & Goodies",
+    "url": "https://www.meetup.com/intersystems-global-developer-community-group/events/315902030/",
     "location": "Online",
-    "dates": "Aug 12, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-08-12 13:00:00",
+    "dates": "Aug 13, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-08-13 11:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Enabled Professionals",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "How to get your Agentic AI on!",
-    "url": "https://www.meetup.com/it-pro-ai-hump/events/315811527/",
-    "location": "Online",
-    "dates": "Aug 12, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-08-12 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Getting over the AI Hump",
+    "organization": "InterSystems Global Developer Community Group",
     "curated": false
   },
   {
@@ -66,6 +53,19 @@
   },
   {
     "source": "Luma",
+    "title": "vibecoding 101 - ai & women",
+    "url": "https://lu.ma/thuon9jk",
+    "location": "Bengaluru, India",
+    "dates": "Aug 16, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-08-16 07:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ai & weekends",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Explanet Social \u00b7 Bangalore Tech \u00b7 Indiranagar Side (#8)",
     "url": "https://lu.ma/ijjju2k8",
     "location": "Bengaluru, India",
@@ -75,58 +75,6 @@
     "themes": [],
     "prize": "",
     "organization": "Explanet Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "FREE 5-DAY AI POWERED FULL STACK DEVELOPMENT COURSE | AUGUST 2026 | CODING MACAW",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864076/",
-    "location": "Online",
-    "dates": "Aug 17, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-08-17 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Software Book Club : Observability Engineering: Chapter 3",
-    "url": "https://www.meetup.com/maple-code/events/316057938/",
-    "location": "Online",
-    "dates": "Aug 18, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-18 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Maple Code",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The Career Reset: Surviving and Thriving in the AI Economy",
-    "url": "https://www.meetup.com/technology-ai/events/316000632/",
-    "location": "Online",
-    "dates": "Aug 21, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-21 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "technology.ai",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "FREE 5 - DAY AI POWERED DATA ENGINEERING BOOTCAMP | AUGUST 2026 | CODING MACAW",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864146/",
-    "location": "Online",
-    "dates": "Aug 25, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-08-25 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
