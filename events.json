@@ -1,28 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "InterSystems IRIS AI Hub: Goals, Games & Goodies",
-    "url": "https://www.meetup.com/intersystems-global-developer-community-group/events/315902030/",
+    "title": "FREE 2 HOUR WEBMINAR | AI POWERED CLOUD ENGINEERING | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315865487/",
     "location": "Online",
-    "dates": "Aug 13, 2026 \u00b7 11:00 AM",
-    "sort_date": "2026-08-13 11:00:00",
+    "dates": "Aug 14, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-14 10:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "InterSystems Global Developer Community Group",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Build Semiconductor Chips with AI",
-    "url": "https://lu.ma/cr3edf37",
-    "location": "Bengaluru, India",
-    "dates": "Aug 14, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-08-14 13:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Lossfunk Event Calendar",
+    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
@@ -52,6 +39,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Vibe Coding: Build Your Own Website & App \u2014 No Coding Required!",
+    "url": "https://www.meetup.com/atlanta-ai-builders/events/315763871/",
+    "location": "Online",
+    "dates": "Aug 15, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-15 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Atlanta AI Builders",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "vibecoding 101 - ai & women",
     "url": "https://lu.ma/thuon9jk",
@@ -75,6 +75,97 @@
     "themes": [],
     "prize": "",
     "organization": "Explanet Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE 5-DAY AI POWERED FULL STACK DEVELOPMENT COURSE | AUGUST 2026 | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864076/",
+    "location": "Online",
+    "dates": "Aug 17, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-17 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "What If AI Watched You Work?",
+    "url": "https://www.meetup.com/nycpowershellmeetup/events/316106577/",
+    "location": "Online",
+    "dates": "Aug 18, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-08-18 16:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "New York - Agentic AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Does AI Change the Value of Graduate School?",
+    "url": "https://www.meetup.com/codentalk/events/316077389/",
+    "location": "Online",
+    "dates": "Aug 19, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-19 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The Career Reset: Surviving and Thriving in the AI Economy",
+    "url": "https://www.meetup.com/technology-ai/events/316000632/",
+    "location": "Online",
+    "dates": "Aug 21, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-21 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "technology.ai",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "n8n Bangalore: Founders & Builders Mixer",
+    "url": "https://lu.ma/n8n-ad2z",
+    "location": "Bengaluru, India",
+    "dates": "Aug 23, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-08-23 05:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "n8n Community Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE 5 - DAY AI POWERED DATA ENGINEERING BOOTCAMP | AUGUST 2026 | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864146/",
+    "location": "Online",
+    "dates": "Aug 25, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-25 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/315826831/",
+    "location": "Online",
+    "dates": "Aug 25, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-25 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
     "curated": false
   },
   {
@@ -140,6 +231,19 @@
     "themes": [],
     "prize": "",
     "organization": "Founder Local",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Product-led Growth for Startups",
+    "url": "https://lu.ma/4eu0oyth",
+    "location": "Bengaluru, India",
+    "dates": "Sep 12, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-09-12 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coffee with Founders",
     "curated": false
   },
   {
