@@ -1,5 +1,44 @@
 [
   {
+    "source": "Meetup",
+    "title": "AI Meetup (August): Gen AI, LLMs and Agents",
+    "url": "https://www.meetup.com/aittg-chicago/events/315896858/",
+    "location": "Chicago, IL",
+    "dates": "Aug 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-17 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago AI Developers Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "\ud83d\ude80 Sesi\u00f3n 4 \u2014 Aplicaciones de Foundation Models: Dise\u00f1o y Prompt Engineering",
+    "url": "https://www.meetup.com/aws-tech-girls/events/316067139/",
+    "location": "Online",
+    "dates": "Aug 18, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-18 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AWS Tech Girls",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI in 2026: Up-skilling, Certifications, and Resumes that Stand Out",
+    "url": "https://www.meetup.com/humansoulai/events/315561910/",
+    "location": "Online",
+    "dates": "Aug 18, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-18 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "HumanSoulAI",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Distribution in the Age of AI",
     "url": "https://lu.ma/fgp6c0ih",
@@ -14,15 +53,28 @@
   },
   {
     "source": "Meetup",
-    "title": "The Past Didn't Go Anywhere: Fundamentals > AI",
-    "url": "https://www.meetup.com/central-iowa-java-users-group/events/315859295/",
-    "location": "Urbandale, IA",
+    "title": "The New Feelings of the AI Era",
+    "url": "https://www.meetup.com/uxsynergies/events/315890006/",
+    "location": "Chicago, IL",
     "dates": "Aug 20, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-08-20 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Central Iowa Java Users Group",
+    "organization": "UX Synergies",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Advanced Manufacturing | Founder Mixer",
+    "url": "https://lu.ma/06cwq7tt",
+    "location": "Bengaluru, India",
+    "dates": "Aug 21, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-08-21 11:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -40,15 +92,15 @@
   },
   {
     "source": "Meetup",
-    "title": "The SaaS Startup Dependency Graph",
-    "url": "https://www.meetup.com/devopsdsm/events/315859296/",
-    "location": "Urbandale, IA",
-    "dates": "Aug 26, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-26 18:00:00",
+    "title": "Chicago Tech Mixer 2026",
+    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
+    "location": "Chicago, IL",
+    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-27 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "DevOpsDSM",
+    "organization": "Chicago Startup and Tech Mixer",
     "curated": false
   },
   {
@@ -62,6 +114,19 @@
     "themes": [],
     "prize": "",
     "organization": "AI Career Hub!",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
+    "location": "Chicago, IL",
+    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-01 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
     "curated": false
   },
   {
@@ -130,19 +195,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Mobile Engineering Meetup",
-    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-09 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Mobile Developers",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Brand Marketing 101 for Founders",
     "url": "https://lu.ma/498riwxp",
@@ -179,6 +231,19 @@
     "themes": [],
     "prize": "",
     "organization": "Magicball",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Bangalore Product Mixer #4 | Product Reactor",
+    "url": "https://lu.ma/232qy3xn",
+    "location": "Bengaluru, India",
+    "dates": "Oct 10, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-10-10 14:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Product Reactor",
     "curated": false
   },
   {
