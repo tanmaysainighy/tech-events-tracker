@@ -1,44 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "FREE 2 HOUR WEBMINAR | AI POWERED DATA ENGINEERING | CODING MACAW",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315873992/",
-    "location": "Online",
-    "dates": "Aug 18, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-08-18 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Software Book Club : Observability Engineering: Chapter 3",
-    "url": "https://www.meetup.com/maple-code/events/316057938/",
-    "location": "Online",
-    "dates": "Aug 18, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-18 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Maple Code",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Distribution in the Age of AI",
-    "url": "https://lu.ma/fgp6c0ih",
-    "location": "Bengaluru, India",
-    "dates": "Aug 19, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-08-19 11:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Advanced Manufacturing | Founder Mixer",
     "url": "https://lu.ma/06cwq7tt",
@@ -66,6 +27,19 @@
   },
   {
     "source": "Meetup",
+    "title": "FREE 5 - DAY CLOUD ENGINEERING BOOTCAMP | AUGUST 2026 | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315863177/",
+    "location": "Online",
+    "dates": "Aug 24, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-24 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "FREE 5 - DAY AI POWERED DATA ENGINEERING BOOTCAMP | AUGUST 2026 | CODING MACAW",
     "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864146/",
     "location": "Online",
@@ -79,19 +53,6 @@
   },
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/315826831/",
-    "location": "Online",
-    "dates": "Aug 25, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-08-25 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "FREE 5 - DAY LIVE ML OPS BOOTCAMP | CODING MACAW",
     "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864035/",
     "location": "Online",
@@ -101,6 +62,19 @@
     "themes": [],
     "prize": "",
     "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
+    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
+    "location": "Online",
+    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-01 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Complexity Lounge",
     "curated": false
   },
   {
@@ -183,6 +157,19 @@
   },
   {
     "source": "Luma",
+    "title": "The Local AI and Infra Meetup",
+    "url": "https://lu.ma/ttc50ovr",
+    "location": "Bengaluru, India",
+    "dates": "Sep 06, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-09-06 08:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Brand Marketing 101 for Founders",
     "url": "https://lu.ma/498riwxp",
     "location": "Bengaluru, India",
@@ -205,6 +192,19 @@
     "themes": [],
     "prize": "",
     "organization": "Coffee with Founders",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "NoVA Hackers September Meeting",
+    "url": "https://www.meetup.com/nova-hackers/events/315675353/",
+    "location": "Reston, VA",
+    "dates": "Sep 14, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-14 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "NoVA Hackers",
     "curated": false
   },
   {
