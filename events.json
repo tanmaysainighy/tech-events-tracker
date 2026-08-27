@@ -1,57 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Go Meetup in San Francisco | Hosted by C1.ai",
-    "url": "https://www.meetup.com/golangsf/events/315798556/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 26, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-26 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "GoSF",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Startup Pitch & Networking in San Francisco",
-    "url": "https://www.meetup.com/startups-and-tech-events-in-san-francisco/events/315681907/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 26, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-08-26 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Startups and Tech Events in San Francisco",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AWS Agentic AI Showcase - MongoDB and LangChain",
-    "url": "https://www.meetup.com/aittg-sfsv/events/316162699/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 27, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-08-27 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "SF/Bay AI Developers Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
-    "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
-    "location": "Online",
-    "dates": "Aug 28, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-28 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Career Hub!",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Neuroscience for AI: Insights from the hippocampal complex",
     "url": "https://lu.ma/uae5w8p4",
@@ -66,11 +14,24 @@
   },
   {
     "source": "Luma",
+    "title": "Coding and Kombucha",
+    "url": "https://lu.ma/vaefo8bg",
+    "location": "Bengaluru, India",
+    "dates": "Aug 29, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-08-29 08:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "CoreVoice",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Aarambha - Bengaluru Tech Week 2026 Kickoff",
     "url": "https://lu.ma/shzfpjec",
     "location": "Bengaluru, India",
-    "dates": "Sep 01, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-01 12:30:00",
+    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-01 11:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
@@ -143,6 +104,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Pollack Cinema - AI Film 3 showcase event",
+    "url": "https://www.meetup.com/aicollective/events/315644272/",
+    "location": "Tempe, AZ",
+    "dates": "Sep 03, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-03 18:00:32",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Technology, Film, Art, and Music Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "The Hardware Club Bangalore - Robotics & Physical AI Showcase",
     "url": "https://lu.ma/84xsno2z",
@@ -209,6 +183,19 @@
   },
   {
     "source": "Luma",
+    "title": "Poha-Jalebi Club x Bengaluru Tech Week",
+    "url": "https://lu.ma/y3ms8qtp",
+    "location": "Bengaluru, Karnataka",
+    "dates": "Sep 06, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-09-06 03:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "The Local AI and Infra Meetup",
     "url": "https://lu.ma/ttc50ovr",
     "location": "Bengaluru, India",
@@ -218,6 +205,58 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Tuesday \u2013 Happy Hour #15",
+    "url": "https://www.meetup.com/aztechtuesday/events/316243722/",
+    "location": "Tempe, AZ",
+    "dates": "Sep 08, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-08 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AZ Tech Tuesday",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "-1 to 0 | Srinivas Narayanan | Former CTO of B2B Applications (OpenAI), Ex-VP Engineering (Meta)",
+    "url": "https://lu.ma/SrinivasOpenAI",
+    "location": "Bengaluru, India",
+    "dates": "Sep 09, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-09 11:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SPC India Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Bits n Atoms: The future of product management in an AI world | TPF x Toast",
+    "url": "https://lu.ma/mmu5ji6f",
+    "location": "Bengaluru, India",
+    "dates": "Sep 11, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-11 12:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Product Folks",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI in AZ Dinner, Networking, Training - Sep 11",
+    "url": "https://www.meetup.com/ai-arizona/events/315667990/",
+    "location": "Scottsdale, AZ",
+    "dates": "Sep 11, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-11 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Arizona",
     "curated": false
   },
   {
@@ -260,19 +299,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-19 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Bay Area AI War Room",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Unicorn AI Summit",
     "url": "https://lu.ma/unicornsummit",
@@ -283,6 +309,19 @@
     "themes": [],
     "prize": "",
     "organization": "Magicball",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Agentic LLMs and Software Architecture",
+    "url": "https://www.meetup.com/azemergingtech/events/315041448/",
+    "location": "Scottsdale, AZ",
+    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-24 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
