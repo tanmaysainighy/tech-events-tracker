@@ -1,18 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Microsoft Fabric AI Skills + Claude Skills: The Future of Data Engineering",
-    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/316019285/",
-    "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 4:00 AM",
-    "sort_date": "2026-09-01 04:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Machine Learning_ML Meetup Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Aarambha - Bengaluru Tech Week 2026 Kickoff",
     "url": "https://lu.ma/shzfpjec",
@@ -27,15 +14,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
-    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
+    "title": "Welcome to the Machine Learning Study Group #55",
+    "url": "https://www.meetup.com/study-machine-learning/events/316092163/",
     "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-01 12:00:00",
+    "dates": "Sep 01, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-01 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "The Complexity Lounge",
+    "organization": "Study Machine Learning",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Coding Club",
+    "url": "https://www.meetup.com/westside-coding-club/events/315981919/",
+    "location": "Online",
+    "dates": "Sep 01, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-01 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Westside Coding Club",
     "curated": false
   },
   {
@@ -114,19 +114,6 @@
     "themes": [],
     "prize": "",
     "organization": "Inkle",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI for Business & Marketing: Build workflows that move your business forward",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
-    "location": "Online",
-    "dates": "Sep 03, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-03 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI + Marketing Meetup Group",
     "curated": false
   },
   {
@@ -247,19 +234,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Mobile Engineering Meetup",
-    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-09 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Mobile Developers",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Bits n Atoms: The future of product management in an AI world | TPF x Toast",
     "url": "https://lu.ma/mmu5ji6f",
@@ -309,6 +283,19 @@
     "themes": [],
     "prize": "",
     "organization": "Coffee with Founders",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-19 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Bay Area AI War Room",
     "curated": false
   },
   {
