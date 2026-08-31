@@ -14,28 +14,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Welcome to the Machine Learning Study Group #55",
-    "url": "https://www.meetup.com/study-machine-learning/events/316092163/",
+    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
+    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
     "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-01 16:00:00",
+    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-01 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Study Machine Learning",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/315981919/",
-    "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-01 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Westside Coding Club",
+    "organization": "The Complexity Lounge",
     "curated": false
   },
   {
@@ -131,6 +118,19 @@
   },
   {
     "source": "Luma",
+    "title": "Founders & Funders: VC Reverse Pitch",
+    "url": "https://lu.ma/VCReversePitch",
+    "location": "Bengaluru, India",
+    "dates": "Sep 04, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-04 11:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI House",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Vibes In, Latency Out: A Voice AI Open Mic",
     "url": "https://lu.ma/8b23fhhm",
     "location": "Bengaluru, India",
@@ -209,6 +209,19 @@
   },
   {
     "source": "Luma",
+    "title": "The Writers' Room #14 | Bengaluru Tech Week Edition",
+    "url": "https://lu.ma/wjs7e174",
+    "location": "Bengaluru, India",
+    "dates": "Sep 06, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-06 06:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Writers' Room",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "The Local AI and Infra Meetup",
     "url": "https://lu.ma/ttc50ovr",
     "location": "Bengaluru, India",
@@ -218,6 +231,45 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Becoming a Frontier Firm with Microsoft AI",
+    "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/316310541/",
+    "location": "Online",
+    "dates": "Sep 08, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-08 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Data & AI and App Development Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Lunch and Learn: Build Skills \u2014 Teach Your AI Agents How You Work",
+    "url": "https://www.meetup.com/all-things-ai-live/events/316064500/",
+    "location": "Online",
+    "dates": "Sep 08, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-08 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "All Things AI (Live)",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316189139/",
+    "location": "Online",
+    "dates": "Sep 08, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-08 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
     "curated": false
   },
   {
@@ -234,8 +286,21 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "USA Tech Talent and Hiring Summit 2026 | Entry-Level Technology Recruitment",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316115144/",
+    "location": "Online",
+    "dates": "Sep 10, 2026 \u00b7 2:00 AM",
+    "sort_date": "2026-09-10 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
     "source": "Luma",
-    "title": "Bits n Atoms: The future of product management in an AI world | TPF x Toast",
+    "title": "Bits n Atoms: The Next Era of Building a Product Career | TPF x Toast",
     "url": "https://lu.ma/mmu5ji6f",
     "location": "Bengaluru, India",
     "dates": "Sep 11, 2026 \u00b7 6:00 PM",
@@ -287,15 +352,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-19 10:00:00",
+    "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
+    "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
+    "location": "Online",
+    "dates": "Sep 13, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-09-13 14:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Bay Area AI War Room",
+    "organization": "AI Office Hours",
     "curated": false
   },
   {
@@ -322,23 +387,6 @@
     "themes": [],
     "prize": "",
     "organization": "Product Reactor",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "The Great Agent Hackathon",
-    "url": "https://the-great-agent-hackathon.devpost.com/",
-    "location": "Freshworks",
-    "dates": "Jul 23 - Aug 30, 2026",
-    "sort_date": "2026-07-23 00:00:00",
-    "state": "open",
-    "themes": [
-      "Enterprise",
-      "Machine Learning/AI",
-      "Open Ended"
-    ],
-    "prize": "\u20b9 100,000",
-    "organization": "Women In Product India",
     "curated": false
   }
 ]
