@@ -1,28 +1,15 @@
 [
   {
-    "source": "Luma",
-    "title": "Aarambha - Bengaluru Tech Week 2026 Kickoff",
-    "url": "https://lu.ma/shzfpjec",
-    "location": "Bengaluru, India",
-    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-01 11:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Bengaluru Tech Week",
-    "curated": false
-  },
-  {
     "source": "Meetup",
-    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
-    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
-    "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-01 12:00:00",
+    "title": "The AI Governance Reality Check",
+    "url": "https://www.meetup.com/loudoun-cybertech/events/316267865/",
+    "location": "Sterling, VA",
+    "dates": "Sep 01, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-01 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "The Complexity Lounge",
+    "organization": "Loudoun CyberTech",
     "curated": false
   },
   {
@@ -234,45 +221,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Becoming a Frontier Firm with Microsoft AI",
-    "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/316310541/",
-    "location": "Online",
-    "dates": "Sep 08, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-08 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Data & AI and App Development Meetup",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Lunch and Learn: Build Skills \u2014 Teach Your AI Agents How You Work",
-    "url": "https://www.meetup.com/all-things-ai-live/events/316064500/",
-    "location": "Online",
-    "dates": "Sep 08, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-08 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "All Things AI (Live)",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316189139/",
-    "location": "Online",
-    "dates": "Sep 08, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-08 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "-1 to 0 | Srinivas Narayanan | Former CTO of B2B Applications (OpenAI), Ex-VP Engineering (Meta)",
     "url": "https://lu.ma/SrinivasOpenAI",
@@ -283,19 +231,6 @@
     "themes": [],
     "prize": "",
     "organization": "SPC India Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "USA Tech Talent and Hiring Summit 2026 | Entry-Level Technology Recruitment",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316115144/",
-    "location": "Online",
-    "dates": "Sep 10, 2026 \u00b7 2:00 AM",
-    "sort_date": "2026-09-10 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
@@ -352,15 +287,15 @@
   },
   {
     "source": "Meetup",
-    "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
-    "location": "Online",
-    "dates": "Sep 13, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-13 14:00:00",
+    "title": "NoVA Hackers September Meeting",
+    "url": "https://www.meetup.com/nova-hackers/events/315675353/",
+    "location": "Reston, VA",
+    "dates": "Sep 14, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-14 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Office Hours",
+    "organization": "NoVA Hackers",
     "curated": false
   },
   {
