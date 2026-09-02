@@ -1,54 +1,41 @@
 [
   {
     "source": "Meetup",
-    "title": "The AI Governance Reality Check",
-    "url": "https://www.meetup.com/loudoun-cybertech/events/316267865/",
-    "location": "Sterling, VA",
-    "dates": "Sep 01, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-01 17:30:00",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-dfw/events/315981170/",
+    "location": "Online",
+    "dates": "Sep 02, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-02 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Loudoun CyberTech",
+    "organization": "Analytics.Club Dallas",
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "The Java and Spring Story - Documentary Screening and Developer Mixer",
-    "url": "https://lu.ma/a49ax45o",
-    "location": "Bengaluru, India",
-    "dates": "Sep 02, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-02 12:30:00",
+    "source": "Meetup",
+    "title": "Roundtable: Is AI Making You More Productive?",
+    "url": "https://www.meetup.com/indy-net-consortium/events/313039840/",
+    "location": "Online",
+    "dates": "Sep 02, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-02 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Personal",
+    "organization": "Indy .NET Consortium",
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "Women In Tech Mixer - Bengaluru Tech Week 2026",
-    "url": "https://lu.ma/rkv8fvss",
-    "location": "Bengaluru, India",
-    "dates": "Sep 02, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-02 12:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Bengaluru Tech Week",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI Everywhere: Edge, Cloud and Humans",
-    "url": "https://lu.ma/r80gqn49",
-    "location": "Bengaluru, India",
+    "source": "Meetup",
+    "title": "AI\u2011Powered Analytics with Power BI MCP Server and Claude",
+    "url": "https://www.meetup.com/hassug/events/316191538/",
+    "location": "Online",
     "dates": "Sep 02, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-02 13:30:00",
+    "sort_date": "2026-09-02 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "KnowShubhangi",
+    "organization": "Houston Area SQL Server User Group (HASSUG)",
     "curated": false
   },
   {
@@ -88,6 +75,19 @@
     "themes": [],
     "prize": "",
     "organization": "Inkle",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI for Business & Marketing: Build workflows that move your business forward",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
+    "location": "Online",
+    "dates": "Sep 03, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-03 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
     "curated": false
   },
   {
@@ -140,6 +140,19 @@
     "themes": [],
     "prize": "",
     "organization": "Reckonsys Tech Labs",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Awesome CodeRabbit | Bengaluru Tech Week",
+    "url": "https://lu.ma/codera-klde",
+    "location": "Bengaluru, India",
+    "dates": "Sep 05, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-09-05 09:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "CodeRabbit",
     "curated": false
   },
   {
@@ -247,6 +260,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Latent Representation and the Future of Human-AI Interaction",
+    "url": "https://www.meetup.com/ieee_cis_scv/events/315971799/",
+    "location": "Online",
+    "dates": "Sep 11, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-11 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "IEEE Computational Intelligence Society - SCV Chapter",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Be with BitGo: Building Crypto in India",
     "url": "https://lu.ma/wzskhor8",
@@ -286,19 +312,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "NoVA Hackers September Meeting",
-    "url": "https://www.meetup.com/nova-hackers/events/315675353/",
-    "location": "Reston, VA",
-    "dates": "Sep 14, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-14 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "NoVA Hackers",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Unicorn AI Summit",
     "url": "https://lu.ma/unicornsummit",
@@ -309,6 +322,19 @@
     "themes": [],
     "prize": "",
     "organization": "Magicball",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
+    "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
+    "location": "Online",
+    "dates": "Sep 30, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-09-30 08:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Agentic AI Context Builders",
     "curated": false
   },
   {
