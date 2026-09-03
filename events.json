@@ -1,84 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-dfw/events/315981170/",
-    "location": "Online",
-    "dates": "Sep 02, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-02 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Dallas",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Roundtable: Is AI Making You More Productive?",
-    "url": "https://www.meetup.com/indy-net-consortium/events/313039840/",
-    "location": "Online",
-    "dates": "Sep 02, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-02 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Indy .NET Consortium",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI\u2011Powered Analytics with Power BI MCP Server and Claude",
-    "url": "https://www.meetup.com/hassug/events/316191538/",
-    "location": "Online",
-    "dates": "Sep 02, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-02 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Houston Area SQL Server User Group (HASSUG)",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Product Roast at AI House: No AI Was Harmed (Just Embarrassed)",
-    "url": "https://lu.ma/ProductRoastatAIHouse",
-    "location": "Bengaluru, India",
-    "dates": "Sep 03, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-03 11:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI House",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI in DeepTech | Bengaluru",
-    "url": "https://lu.ma/the-rncj",
-    "location": "Bengaluru, India",
-    "dates": "Sep 03, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-03 12:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Ecosystem Community",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "GTM Engineering: Hackathon for Founders | Inkle x Aspire",
-    "url": "https://lu.ma/inkle-gtm-hackathon",
-    "location": "Bengaluru, India",
-    "dates": "Sep 03, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-03 12:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Inkle",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "AI for Business & Marketing: Build workflows that move your business forward",
     "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
     "location": "Online",
@@ -144,15 +66,28 @@
   },
   {
     "source": "Luma",
-    "title": "Awesome CodeRabbit | Bengaluru Tech Week",
+    "title": "Bengaluru Burrow | Bengaluru Tech Week",
     "url": "https://lu.ma/codera-klde",
     "location": "Bengaluru, India",
-    "dates": "Sep 05, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-09-05 09:30:00",
+    "dates": "Sep 05, 2026 \u00b7 11:30 AM",
+    "sort_date": "2026-09-05 06:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
     "organization": "CodeRabbit",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
+    "url": "https://www.meetup.com/founders-running-club/events/316125116/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 05, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-09-05 09:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Founders Running Club :: San Francisco",
     "curated": false
   },
   {
@@ -225,8 +160,8 @@
     "title": "The Local AI and Infra Meetup",
     "url": "https://lu.ma/ttc50ovr",
     "location": "Bengaluru, India",
-    "dates": "Sep 06, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-06 08:30:00",
+    "dates": "Sep 06, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-09-06 07:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
@@ -247,6 +182,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI Dev Night - Coding agents and AI-native development",
+    "url": "https://www.meetup.com/sfbay-ai/events/316269830/",
+    "location": "",
+    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-09 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF AI",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Bits n Atoms: The Next Era of Building a Product Career | TPF x Toast",
     "url": "https://lu.ma/mmu5ji6f",
@@ -257,19 +205,6 @@
     "themes": [],
     "prize": "",
     "organization": "The Product Folks",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Latent Representation and the Future of Human-AI Interaction",
-    "url": "https://www.meetup.com/ieee_cis_scv/events/315971799/",
-    "location": "Online",
-    "dates": "Sep 11, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-11 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "IEEE Computational Intelligence Society - SCV Chapter",
     "curated": false
   },
   {
@@ -312,6 +247,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-19 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Bay Area AI War Room",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Unicorn AI Summit",
     "url": "https://lu.ma/unicornsummit",
@@ -322,19 +270,6 @@
     "themes": [],
     "prize": "",
     "organization": "Magicball",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
-    "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
-    "location": "Online",
-    "dates": "Sep 30, 2026 \u00b7 8:00 AM",
-    "sort_date": "2026-09-30 08:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Agentic AI Context Builders",
     "curated": false
   },
   {
