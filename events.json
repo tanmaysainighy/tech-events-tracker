@@ -18,45 +18,6 @@
   },
   {
     "source": "Luma",
-    "title": "Bengaluru Burrow | Bengaluru Tech Week",
-    "url": "https://lu.ma/codera-klde",
-    "location": "Bengaluru, India",
-    "dates": "Sep 05, 2026 \u00b7 11:30 AM",
-    "sort_date": "2026-09-05 06:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "CodeRabbit",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Laravel Bengaluru: Tech Week Meetup",
-    "url": "https://lu.ma/laravel-f4hn",
-    "location": "Bengaluru, India",
-    "dates": "Sep 05, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-09-05 07:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Laravel",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI in HealthTech | Bengaluru",
-    "url": "https://lu.ma/67jmzygb",
-    "location": "Bengaluru, India",
-    "dates": "Sep 05, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-05 12:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Ecosystem Community",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "AWFK - Bengaluru Tech Walk | Celebrating BTW",
     "url": "https://lu.ma/5zqxmdqn",
     "location": "Bengaluru, India",
@@ -109,6 +70,45 @@
   },
   {
     "source": "Luma",
+    "title": "D-DAY by AI&Weekends",
+    "url": "https://lu.ma/ljv7stet",
+    "location": "Bengaluru, India",
+    "dates": "Sep 06, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-06 12:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ai & weekends",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Copilot, Microsoft 365 & Power Platform product updates call",
+    "url": "https://www.meetup.com/global-microsoft-365-dev-meetup/events/316415849/",
+    "location": "Online",
+    "dates": "Sep 08, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-09-08 08:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Global Microsoft 365 & Power Platform Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Public-Sector Cyber Resilience & AI Security Executive Briefing",
+    "url": "https://www.meetup.com/big-data-ai-seattle/events/316352724/",
+    "location": "Online",
+    "dates": "Sep 09, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-09-09 11:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Seattle Data, AI & Security",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "-1 to 0 | Srinivas Narayanan | Former CTO of B2B Applications (OpenAI), Ex-VP Engineering (Meta)",
     "url": "https://lu.ma/SrinivasOpenAI",
     "location": "Bengaluru, India",
@@ -134,19 +134,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "An Engineer's Guide to the Semantic Layer (Critical Infrastructure)",
-    "url": "https://www.meetup.com/gatewayjug/events/316071736/",
-    "location": "Online",
-    "dates": "Sep 10, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-10 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "St. Louis Java User's Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Bits n Atoms: The Next Era of Building a Product Career | TPF x Toast",
     "url": "https://lu.ma/mmu5ji6f",
@@ -157,6 +144,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Product Folks",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Connect - Job and Career Networking for AI Specialists",
+    "url": "https://www.meetup.com/ac-sea/events/316232016/",
+    "location": "Online",
+    "dates": "Sep 11, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-09-11 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
@@ -200,15 +200,15 @@
   },
   {
     "source": "Meetup",
-    "title": "State of AI - September 17",
-    "url": "https://www.meetup.com/modernweb/events/316011803/",
+    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
+    "url": "https://www.meetup.com/humansoulai/events/315796740/",
     "location": "Online",
-    "dates": "Sep 17, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-09-17 09:30:00",
+    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-15 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Modern Web",
+    "organization": "HumanSoulAI",
     "curated": false
   },
   {
